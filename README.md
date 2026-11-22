@@ -4,6 +4,10 @@ An entry for the make.fun competition **news-image-20261121** ("Sum up
 21 November's world news in one image", $100 prize pool, top 50 paid):
 one image that sums up the world news of Saturday 21 November 2026.
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/banglento/front-page-21-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/banglento/front-page-21-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 The image is a newspaper front page. The date sits in a black bar under
 the masthead, the day's biggest story leads, four more stories fill a
 two-by-two grid, and an "In Brief" column carries four shorter items —
